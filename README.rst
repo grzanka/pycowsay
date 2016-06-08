@@ -6,7 +6,8 @@ pycowsay
 Overview
 ========
 
-My funny program which makes muu in python style (and much more!). If you install it under Linux, you'll be able to see
+My funny program which makes muu in python style (and much more!). 
+If you install it under Linux, you'll be able to see
 following miracles::
 
         test@43a35231ea14:~$ run_pycowsay
