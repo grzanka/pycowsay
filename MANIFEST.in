@@ -1,0 +1,6 @@
+  include *.rst
+  include *.txt
+  include *.py
+
+  exclude .gitkeep
+  exclude .gitconfig
